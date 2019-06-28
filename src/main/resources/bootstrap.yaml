@@ -1,0 +1,7 @@
+
+spring:
+    application:
+        name: sandbox-studants-service
+    cloud:
+        config:
+            uri: localhost:8888

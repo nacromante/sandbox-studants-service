@@ -1,9 +1,0 @@
-server:
-    port: 8090
-
-spring:
-    application:
-        name: studants-service
-eureka:
-    instance:
-        hostname: localhost
